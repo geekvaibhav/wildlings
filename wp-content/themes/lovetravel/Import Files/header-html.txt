@@ -1,0 +1,63 @@
+LEFT CONTENT:
+
+<h6 class="white">
+    <i class="icon-mail"></i>  <a class="white title" href="#">info@travel.com</a>
+    <span class="greydark2 nicdark_marginright10 nicdark_marginleft10">|</span>
+    <i class="icon-phone"></i>  <a class="white title" href="#">+44 5227653</a>
+    <span class="greydark2 nicdark_marginright10 nicdark_marginleft10">|</span>
+    <i class="icon-clock"></i>  9-13  to  14-18
+</h6>
+
+
+
+
+RIGHT CONTENT:
+
+<h6 class="white">
+    <i class="icon-globe"></i>  <a class="nicdark_mpopup_window nicdark_outline white title" href="#nicdark_window_pop_up">CHOOSE LANGUAGES</a>
+    <span class="greydark2 nicdark_marginright10 nicdark_marginleft10">|</span>
+    <i class="icon-key"></i>  <a class="white title" href="#">REGISTER</a>
+    <span class="greydark2 nicdark_marginright10 nicdark_marginleft10">|</span>
+    <i class="icon-lock"></i>  <a class="white title" href="#">LOG IN</a>
+</h6>
+
+
+
+
+POPUP WINDOW:
+
+<div class="nicdark_textevidence nicdark_bg_green ">
+    <div class="nicdark_margin20">
+        <h4 class="white">LANGUAGES</h4>
+    </div>
+</div>
+
+<div class="nicdark_padding20 nicdark_display_inlineblock nicdark_width_percentage100 nicdark_sizing">
+    
+    <ul class="nicdark_list border">
+    
+        <li class="nicdark_border_greydark">
+            <p><a class="white" href="#">ENGLISH</a><a href="#" class="nicdark_btn right nicdark_opacity"><i class="white icon-angle-right"></i></a></p>
+            <div class="nicdark_space15"></div>
+        </li>
+
+        <li class="nicdark_border_greydark">
+            <div class="nicdark_space15"></div>
+            <p><a class="white" href="#">RUSSIAN</a><a href="#" class="nicdark_btn right nicdark_opacity"><i class="white icon-angle-right"></i></a></p>   
+            <div class="nicdark_space15"></div>
+        </li>
+            
+        <li class="nicdark_border_greydark">
+            <div class="nicdark_space15"></div>
+            <p><a class="white" href="#">ARABIC</a><a href="#" class="nicdark_btn right nicdark_opacity"><i class="white icon-angle-right"></i></a></p>   
+            <div class="nicdark_space15"></div>
+        </li>
+
+        <li class="nicdark_border_greydark">
+            <div class="nicdark_space15"></div>
+            <p><a class="white" href="#">ITALIAN</a><a href="#" class="nicdark_btn right nicdark_opacity"><i class="white icon-angle-right"></i></a></p>    
+        </li>
+            
+    </ul>
+
+</div>

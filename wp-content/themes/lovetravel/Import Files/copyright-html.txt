@@ -1,0 +1,22 @@
+LEFT CONTENT:
+
+<p class="white">© Copyright 2014 by <span class="grey">NicDark</span>Themes.com - Made With <i class="icon-heart-filled red nicdark_zoom"></i> In Venice</p>
+
+
+
+RIGHT CONTENT:
+
+<div class="nicdark_margin10">
+    <a href="#" class="nicdark_press right nicdark_btn_icon nicdark_bg_blue small white"><i class="icon-twitter-1"></i></a>
+</div>
+
+<div class="nicdark_margin10">
+    <a href="#" class="nicdark_press right nicdark_btn_icon nicdark_bg_red small white"><i class="icon-youtube-play"></i></a>
+</div>
+
+<div class="nicdark_margin10">
+    <a href="#" class="nicdark_press right nicdark_btn_icon nicdark_facebook small white"><i class="icon-facebook"></i></a>
+</div>
+
+
+

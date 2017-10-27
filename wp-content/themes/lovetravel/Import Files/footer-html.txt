@@ -1,0 +1,78 @@
+FOOTER 1 ( Text Widget ):
+
+Title: 
+
+LOVE TRAVEL
+
+Content:
+
+<ul class="nicdark_list">
+<li>
+<p class="nicdark_margin100 white nicdark_margintop0"><i class="icon-location"></i>&nbsp;&nbsp;Brodway Road 234, New York</p>
+</li>
+
+<li>
+<p class="nicdark_margin100 white"><i class="icon-phone"></i>&nbsp;&nbsp;&nbsp;Mobile: +44 5227653</p>
+</li>
+
+<li>
+<p class="nicdark_margin100 white"><i class="icon-mail"></i>&nbsp;&nbsp;&nbsp;Mail: info@travel.com</p>
+</li>
+
+</ul>
+
+<div class="nicdark_space20"></div>
+
+<a href="mailto:info@travel.com" class="nicdark_btn_icon nicdark_bg_violet small white">
+    <i class="icon-paper-plane nicdark_rotate"></i>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="skype:yourusername?call" class="nicdark_btn_icon nicdark_bg_blue small white">
+    <i class="icon-skype nicdark_rotate"></i>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="skype:yourusername?chat" class="nicdark_btn_icon nicdark_bg_green small white">
+    <i class="icon-chat nicdark_rotate"></i>
+</a>
+
+
+
+
+FOOTER 2 ( Tag Widget ):
+
+Title: TAG
+
+
+
+
+FOOTER 3 ( Text Widget ):
+
+Title: 
+
+GALLERY
+
+Content:
+
+<img alt="" class="nicdark_activity nicdark_padding14_right nicdark_sizing nicdark_width_percentage33" src="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/200X200.jpg">
+
+<img alt="" class="nicdark_activity nicdark_padding07 nicdark_sizing nicdark_width_percentage33" src="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/200X200.jpg">
+
+<img alt="" class="nicdark_activity nicdark_padding14_left nicdark_sizing nicdark_width_percentage33" src="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/200X200.jpg">
+
+<img alt="" class="nicdark_margintop20 nicdark_activity nicdark_padding14_right nicdark_sizing nicdark_width_percentage33" src="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/200X200.jpg">
+
+<img alt="" class="nicdark_margintop20 nicdark_activity nicdark_padding07 nicdark_sizing nicdark_width_percentage33" src="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/200X200.jpg">
+
+<img alt="" class="nicdark_margintop20 nicdark_activity nicdark_padding14_left nicdark_sizing nicdark_width_percentage33" src="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/200X200.jpg">
+                        
+
+
+FOOTER 4 ( Text Widget ):
+
+Title: 
+
+CONTACT US
+
+Content:
+
+[contact-form-7 id="19" title="Footer Contact"]
